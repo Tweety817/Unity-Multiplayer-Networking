@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTGD.Plugins", "GTGD.Plugins.csproj", "{1E77869C-1DB4-2C24-B763-BDE066B60E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTGD", "GTGD.csproj", "{5CA74A59-2D3E-8411-69CE-39B0DF7ABBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTGD.Editor.Plugins", "GTGD.Editor.Plugins.csproj", "{98FD7E44-75E2-6D10-B32F-49BFF0F9D9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E77869C-1DB4-2C24-B763-BDE066B60E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E77869C-1DB4-2C24-B763-BDE066B60E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E77869C-1DB4-2C24-B763-BDE066B60E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E77869C-1DB4-2C24-B763-BDE066B60E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA74A59-2D3E-8411-69CE-39B0DF7ABBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA74A59-2D3E-8411-69CE-39B0DF7ABBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA74A59-2D3E-8411-69CE-39B0DF7ABBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA74A59-2D3E-8411-69CE-39B0DF7ABBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FD7E44-75E2-6D10-B32F-49BFF0F9D9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FD7E44-75E2-6D10-B32F-49BFF0F9D9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FD7E44-75E2-6D10-B32F-49BFF0F9D9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FD7E44-75E2-6D10-B32F-49BFF0F9D9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
